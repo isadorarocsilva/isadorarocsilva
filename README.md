@@ -15,4 +15,4 @@ This profile was created in order to work with Integrative Projects promoted by 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
 
 ### :eight_spoked_asterisk: Contact :eight_spoked_asterisk:
-<a href = "mailto:isasilva0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "isasilva0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
