@@ -1,20 +1,26 @@
-### :eight_spoked_asterisk: Hi there! :eight_spoked_asterisk:
+## Hi there!
+<br/>
 
-I'm an undergraduate student at FATEC in São José dos Campos :brazil:
+<p>
+I study at the FATEC institution, in São José dos Campos :brazil:.<br>
+This profile was created in the beginning to work with APIs promoted by the college.<br>
+Today, I see it as an opportunity to share my work with the community of programmers.
+<p/>
 
-This profile was created in order to work with Integrative Projects promoted by the college
-
-:eight_spoked_asterisk::eight_spoked_asterisk::eight_spoked_asterisk:
-
+<br/>
 
 <a href="https://github.com/isadorarocsilva">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorarocsilva&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isadorarocsilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-### :eight_spoked_asterisk: Learning :eight_spoked_asterisk:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
+<br/>
 
-### :eight_spoked_asterisk: Contact :eight_spoked_asterisk:
-<div>
+<h2  align="center"> Learning <h2/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> 
+
+<br/>
+
+<h2  align="center"> Contact <h2/>
+
 <a href = "mailto:isasilva0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<a href = "tel:+5512981850579"><img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
