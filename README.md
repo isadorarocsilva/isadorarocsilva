@@ -19,7 +19,7 @@ Today, I see it as an opportunity to share my work with the community of program
 
 <br/>
 
-<h2  align="center"> Contact <h2/>
+<h2  align="center"> You can contact me by <h2/>
 
 <a href = "mailto:isasilva0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "tel:+5512981850579"><img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
