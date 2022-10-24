@@ -14,6 +14,18 @@ Today, I see it as an opportunity to share my work with the community of program
 
 <br/>
 
+<h2  align="center"> My Repositories <h2/>
+
+- [Python Exercises](https://github.com/isadorarocsilva/PythonExercises)
+
+<br/>
+
+<h2  align="center"> Organizations I participate in <h2/>
+
+- [Pythonators](https://github.com/Pythonators)
+
+<br/>
+
 <h2  align="center"> Learning <h2/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> 
 
