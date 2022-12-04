@@ -3,8 +3,6 @@
 
 <p>
 I study at the FATEC institution, in São José dos Campos :brazil:.<br>
-This profile was created in the beginning to work with APIs promoted by the college.<br>
-Today, I see it as an opportunity to share my work with the developer community.
 <p/>
 
 <br/>
