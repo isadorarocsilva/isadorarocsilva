@@ -35,4 +35,4 @@ Today, I see it as an opportunity to share my work with the developer community.
 
 <a href = "mailto:isasilva0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "tel:+5512981850579"><img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
+<a href="www.linkedin.com/in/isadora-silva-a206b61b2" target="blank"> <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
